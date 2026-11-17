@@ -9,6 +9,8 @@
 01/demo/
 02/pubsub
 02/build/
+03/p2p_chat
+03/build/
 
 # Файлы, создаваемые заданием 1
 *.copy

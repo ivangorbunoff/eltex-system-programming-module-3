@@ -11,6 +11,8 @@
 02/build/
 03/p2p_chat
 03/build/
+04/producer_consumer
+04/build/
 
 # Файлы, создаваемые заданием 1
 *.copy

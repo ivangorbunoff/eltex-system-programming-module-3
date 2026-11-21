@@ -13,6 +13,8 @@
 03/build/
 04/producer_consumer
 04/build/
+05/producer_consumer
+05/build/
 
 # Файлы, создаваемые заданием 1
 *.copy
